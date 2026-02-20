@@ -1,4 +1,4 @@
 Hi, I’m Priscilia 👋
-I’m passionate about cloud computing and data analytics, 
-and I enjoy using AWS, Python, and SQL to help turn data into meaningful, 
-practical solutions. I love learning, building projects, and finding better ways to support smart decision-making.
+Data Analyst with a focus on SQL, Excel, and performance trend analysis. 
+I enjoy working with real-world datasets to uncover patterns and support informed decision-making. 
+Currently strengthening my technical toolkit through hands-on analytics projects.
